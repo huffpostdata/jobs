@@ -7,7 +7,7 @@ Open Positions:
 * [Data Journalist](https://github.com/huffpostdata/jobs/blob/master/data-journalist.md)
 * [News Applications Developer](https://github.com/huffpostdata/jobs/blob/master/news-applications-developer.md)
 
-See a sample of the team’s work at [data.huffingtonpost.com](data.huffingtonpost.com). To apply, email your resume and links to relevant work *careers+data@huffingtonpost.com*.
+See a sample of the team’s work at [data.huffingtonpost.com](data.huffingtonpost.com). To apply, send your resume and links to relevant work to *careers+data@huffingtonpost.com*.
 
 ### About Huffington Post
 The Huffington Post is a Pulitzer Prize-winning source of breaking news, 
