@@ -3,9 +3,9 @@ The Huffington Post is looking for a few good journalists to join its data and i
 Successful candidates should have a strong interest in current events and using data to develop clear findings accompanying visual stories.
 
 Open Positions:
-* [Data & Interactives Editor](http://google.com)
-* [Data Journalist](http://google.com)
-* [News Applications Developer](http://google.com)
+* [Data & Interactives Editor](https://github.com/huffpostdata/jobs/blob/master/data-interactives-editor.md)
+* [Data Journalist](https://github.com/huffpostdata/jobs/blob/master/data-journalist.md)
+* [News Applications Developer](https://github.com/huffpostdata/jobs/blob/master/news-applications-developer.md)
 
 See a sample of the team’s work at [data.huffingtonpost.com](data.huffingtonpost.com).
 
