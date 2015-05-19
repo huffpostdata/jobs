@@ -19,3 +19,6 @@ This editor will have an opportunity to work with great writers, reporters, edit
 * Ability to set goals and define tasks, responsibilities and communicate the team’s vision and role to a broad audience.
 
 
+For more information, contact us at *careers+data@huffingtonpost.com*. To apply, send your resume and links to relevant work.
+
+
