@@ -1,5 +1,5 @@
 # Data Journalist
-The Huffington Post is looking for a journalist with development skills to join its 
+The Huffington Post is looking for a journalist with design and programming skills to join its 
 award-winning data team. The right candidate will be part of a small, deadline-oriented 
 group constantly seeking new ways to crunch and visualize data in the news. 
 He or she will have access to editors and producers to help ideas become widely-read stories.
