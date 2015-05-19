@@ -5,8 +5,8 @@ group constantly seeking new ways to crunch and visualize data in the news.
 He or she will have access to editors and producers to help ideas become widely-read stories.
 
 This journalist will have strong news judgment, the gumption to pitch ideas and understand 
-how to distinguish actionable ideas from underdeveloped ones. They should have a strong grasp of numbers, 
-ability to manipulate spreadsheets and conduct meaningful analysis. They should have excellent 
+how to distinguish actionable ideas from underdeveloped ones. He or she should have a strong grasp of numbers, 
+ability to manipulate spreadsheets and conduct meaningful analysis. The candidate should have excellent 
 visual literacy and understand the fundamentals of designing charts and maps from scratch. 
 A deep, demonstrated knowledge of JavaScript, CSS and HTML5 is key. 
 Some experience with D3, SASS and mapping technologies (such as Leaflet) will also be helpful.
