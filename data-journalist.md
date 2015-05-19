@@ -17,5 +17,5 @@ Some experience with D3, SASS and mapping technologies (such as Leaflet) will al
 * Mapping (Leaflet, etc.)
 * Python or Ruby (+Rails) a plus
 
-See a sample of the team’s work at [data.huffingtonpost.com](http://data.huffingtonpost.com).
+See a sample of the team’s work at [data.huffingtonpost.com](http://data.huffingtonpost.com). For more information, contact us at *careers+data@huffingtonpost.com*. To apply, send your resume and links to at least three pieces of relevant work.
 
