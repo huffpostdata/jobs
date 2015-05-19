@@ -9,7 +9,7 @@ be able to build, manage or provide precise feedback on...
 * [Data analysis and design](http://projects.huffingtonpost.com/hospice-inc)
 * [Data stories around news events](http://data.huffingtonpost.com/2013/12/a-wave-of-violence-sweeps-iraq)
 
-This editor will have an opportunity to work with great writers, reporters, editors and production crews to lead trend-setting journalism. See a sample of the team’s work at [data.huffingtonpost.com](data.huffingtonpost.com).
+This editor will have an opportunity to work with great writers, reporters, editors and production crews to lead trend-setting journalism. See a sample of the team’s work at [data.huffingtonpost.com](http://data.huffingtonpost.com).
 
 ###Qualifications
 * Demonstrated experience (4+ years preferred) in developing projects in newsrooms and on deadline
