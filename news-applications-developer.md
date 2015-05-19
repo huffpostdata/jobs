@@ -12,4 +12,4 @@ team’s projects, visit data.huffingtonpost.com.
 * Demonstrated ability to architect and scale web services for large audiences. 
 * Comfort with Linux server administration and familiarity with Varnish
 
-See a sample of the team’s work at [data.huffingtonpost.com](data.huffingtonpost.com).
+See a sample of the team’s work at [data.huffingtonpost.com](http://data.huffingtonpost.com).
