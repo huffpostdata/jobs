@@ -1,6 +1,6 @@
 # HuffPost Data Jobs
 The Huffington Post is looking for a few good journalists to join its data and interactives team. 
-Successful candidates should have a strong interest in current events and using data to develop clear findings accompanying visual stories.
+Successful candidates should have a strong interest in current events, data analysis and visual storytelling
 
 Open Positions:
 * [Data & Interactives Editor](https://github.com/huffpostdata/jobs/blob/master/data-interactives-editor.md)
