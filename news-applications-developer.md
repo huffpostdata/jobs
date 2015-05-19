@@ -11,4 +11,4 @@ elections and explore new ways to cover politics online.
 * Demonstrated ability to architect and scale web services for large audiences. 
 * Comfort with Linux server administration and familiarity with Varnish
 
-See a sample of the team’s work at [data.huffingtonpost.com](http://data.huffingtonpost.com).
+See a sample of the team’s work at [data.huffingtonpost.com](http://data.huffingtonpost.com). For more information, contact us at *careers+data@huffingtonpost.com*. To apply, send your resume and links to relevant code or work.
