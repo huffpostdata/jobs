@@ -4,8 +4,7 @@ interest in current events to join its award-winning data team.
 To help tell interactive stories, the right candidate will build systems to host 
 complex, data-focused news stories and election coverage. They’ll also have a 
 chance to work with our Pollster team to predict winning candidates in upcoming 
-elections and explore new ways to cover politics online. To see examples of the 
-team’s projects, visit data.huffingtonpost.com.
+elections and explore new ways to cover politics online.
 
 ###Qualifications
 * Expert knowledge of Rails and relational databases (preferably MySQL) is required.
