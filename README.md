@@ -1,5 +1,5 @@
 # HuffPost Data Jobs
-The Huffington Post is looking for a few good journalists to join its data and interactives team. 
+The Huffington Post is looking for a few good journalists to join its data and interactives team in New York. 
 Successful candidates should be adept at using data to develop original stories and to bolster the work of other reporters in a fast-paced news environment. The ability to translate information into compelling visualizations is a must. 
 
 Open Positions:
