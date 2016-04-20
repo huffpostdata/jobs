@@ -4,8 +4,6 @@ Successful candidates should be adept at using data to develop original stories 
 
 NO POSITIONS CURRENTLY OPEN
 
-See a sample of the team’s work at [data.huffingtonpost.com](http://data.huffingtonpost.com). For more information, contact us at *careers+data@huffingtonpost.com*. To apply, please refer to details in individual postings.
-
 ### About Huffington Post
 The Huffington Post is a Pulitzer Prize-winning source of breaking news, 
 commentary, entertainment, features and lifestyle content, as well as 
