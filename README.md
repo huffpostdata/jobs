@@ -2,10 +2,7 @@
 The Huffington Post is looking for a few good journalists to join its data and interactives team in New York. 
 Successful candidates should be adept at using data to develop original stories and to bolster the work of other reporters in a fast-paced news environment. The ability to translate information into compelling visualizations is a must. 
 
-Open Positions:
-* [Data & Interactives Editor](https://github.com/huffpostdata/jobs/blob/master/data-interactives-editor.md)
-* [Data Journalist](https://github.com/huffpostdata/jobs/blob/master/data-journalist.md)
-* [News Applications Developer](https://github.com/huffpostdata/jobs/blob/master/news-applications-developer.md)
+NO POSITIONS CURRENTLY OPEN
 
 See a sample of the team’s work at [data.huffingtonpost.com](http://data.huffingtonpost.com). For more information, contact us at *careers+data@huffingtonpost.com*. To apply, please refer to details in individual postings.
 
